@@ -1,7 +1,7 @@
 # materia-y
 
 - [ ] podstawy notacji  [Markdown](https://daringfireball.net/projects/markdown/)
-- [ ] Atom edytor
+- [ ] Atom edytor 
 - [ ] Bash
 - [ ] SSH
 
