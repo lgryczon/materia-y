@@ -4,7 +4,7 @@
 - [ ] Atom edytor
 - [ ] Bash
 - [ ] SSH
--
+
 
 ## Piewrwsze programy w C
 
@@ -15,4 +15,3 @@ int main() {
   printf("hello world\n");
   }
 ```
-
