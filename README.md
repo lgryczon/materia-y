@@ -1,7 +1,9 @@
 # materia-y
 
 - [ ] podstawy notacji  [Markdown](https://daringfireball.net/projects/markdown/)
-- [ ] xxx
+- [ ] Atom edytor
+- [ ] Bash
+- [ ] SSH
 -
 
 ## Piewrwsze programy w C
