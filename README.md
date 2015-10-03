@@ -1,2 +1,5 @@
 # materia-y
-Materiały do ćwiczeń
+
+- [ ] podstawy notacji  [Markdown]https://daringfireball.net/projects/markdown/
+- [ ] coś jeszcze, atom edytor, bash, 
+
